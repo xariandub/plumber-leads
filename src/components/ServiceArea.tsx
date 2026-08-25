@@ -60,7 +60,7 @@ export function ServiceArea() {
               transition={{ duration: 0.7, delay: 0.15 }}
               className="mt-6 max-w-md text-bone-200/75"
             >
-              Twelve neighborhoods and counting. If you&apos;re nearby we can
+              Twelve neighborhoods and counting. If you're nearby we can
               usually be at your door fast. Not sure? Call and ask.
             </motion.p>
           </div>

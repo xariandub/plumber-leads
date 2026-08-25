@@ -46,8 +46,8 @@ export function Stats() {
                 <span className="italic text-copper-300">Zero surprises.</span>
               </h2>
               <p className="mt-6 max-w-md text-bone-200/75">
-                We&apos;ve built our reputation on the boring stuff: showing up
-                on time, doing the work we said we&apos;d do, and writing the
+                We've built our reputation on the boring stuff: showing up
+                on time, doing the work we said we'd do, and writing the
                 quote before we touch a pipe.
               </p>
             </Reveal>

@@ -20,7 +20,7 @@ const REVIEWS = [
   {
     name: "Priya S.",
     location: "Downtown",
-    body: "Honest about what didn&apos;t need fixing. That&apos;s rare. Will absolutely use again for our remodel.",
+    body: "Honest about what didn't need fixing. That's rare. Will absolutely use again for our remodel.",
     rating: 5,
   },
   {
@@ -83,7 +83,7 @@ export function Reviews() {
               / Stories
             </p>
             <h2 className="mt-4 font-display text-5xl leading-[0.95] tracking-editorial text-bone-50 sm:text-6xl">
-              Neighbors we&apos;ve{" "}
+              Neighbors we've{" "}
               <span className="italic text-copper-300">helped.</span>
             </h2>
           </div>

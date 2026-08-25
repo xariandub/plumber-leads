@@ -76,7 +76,7 @@ export function LeadForm() {
           transition={{ duration: 0.7 }}
         >
           <p className="text-center font-mono text-xs uppercase tracking-[0.28em] text-copper-300">
-            / Tell us what&apos;s going on
+            / Tell us what's going on
           </p>
           <h2 className="mt-4 text-center font-display text-5xl leading-[0.95] tracking-editorial text-bone-50 sm:text-6xl">
             Get a real human

@@ -55,7 +55,7 @@ const ART: Record<string, ServiceArt> = {
     ),
   },
   "Sewer line service": {
-    blurb: "Camera inspection, hydro-jet, trenchless replacement when it&apos;s needed.",
+    blurb: "Camera inspection, hydro-jet, trenchless replacement when it's needed.",
     accent: "teal",
     art: (
       <g fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -131,7 +131,7 @@ export function Services() {
             </div>
             <p className="max-w-sm text-bone-200/70">
               Six core services cover most of what a home or small business
-              will ever need. We&apos;re not the cheapest — we&apos;re the ones
+              will ever need. We're not the cheapest — we're the ones
               you call back.
             </p>
           </div>

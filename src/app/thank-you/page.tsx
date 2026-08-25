@@ -32,11 +32,11 @@ export default function ThankYouPage() {
         <h1 className="mt-4 font-display text-5xl leading-[0.95] tracking-editorial text-bone-50 sm:text-6xl">
           We got it.
           <br />
-          <span className="italic text-copper-300">We&apos;re on it.</span>
+          <span className="italic text-copper-300">We're on it.</span>
         </h1>
         <p className="mt-6 max-w-md text-bone-200/80">
           A real person from {business.name} will reach out shortly. Usually
-          within 15 minutes during business hours. If you don&apos;t hear from
+          within 15 minutes during business hours. If you don't hear from
           us — call directly. We pick up.
         </p>
         <div className="mt-10 w-full max-w-md rounded-2xl border border-copper-400/30 bg-copper-400/[0.08] p-5 text-left">
@@ -44,7 +44,7 @@ export default function ThankYouPage() {
             / Emergency?
           </p>
           <p className="mt-2 text-bone-100">
-            Burst pipe, active leak, no water — don&apos;t wait. Tap below.
+            Burst pipe, active leak, no water — don't wait. Tap below.
           </p>
           <a
             href={`tel:${business.phoneTel}`}
